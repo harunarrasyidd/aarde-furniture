@@ -18,4 +18,4 @@ Premium Interior & Furniture Website built with Next.js.
 - Framer Motion
 
 ## Author
-Harun Arrasyid
+Achmad Harun Arrasyt, S. Kom.
